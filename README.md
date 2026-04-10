@@ -8,6 +8,8 @@ Our datasets could be obtained from link: https://pan.baidu.com/s/1l5HUmTVScgO8O
 
 Put them into ./data.
 
+The forged deepfake data was generated using model Repaint (https://github.com/andreas128/RePaint) and LaMa (https://github.com/advimman/lama).
+
 ```
 FAKE-VAIHINGEN-MM & FAKE-POTSDAM-MM
 
@@ -133,4 +135,3 @@ Our pretrain models could be obtained from link: https://pan.baidu.com/s/1l5HUmT
 
 # BibTeX
 Will be available soon.
-
