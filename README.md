@@ -1,7 +1,7 @@
 # Synergistic VIS-DSM Learning for Deepfake Detection and Localization in Satellite Imagery
 
 
-<span style="color:red; font-size:20px;">We will soon update a new version of this code, please ignore this old version.</span>
+<span style="color:red; font-size:1.2em; font-weight:bold;">We will soon update a new version of this code, please ignore this old version.</span>
 
 The code and datasets for Synergistic VIS-DSM Learning for Deepfake Detection and Localization in Satellite Imagery.
 
